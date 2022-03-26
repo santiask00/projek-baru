@@ -6,3 +6,10 @@
 - susi
 - ayu
 - tina
+
+## siswa laki-laki
+- aryo
+- toni
+- dino
+- fadil
+- rama
